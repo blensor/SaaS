@@ -35,7 +35,7 @@ gem 'spring',        group: :development
 gem 'devise'
 # Use stripe for handling payments
 gem 'stripe',  '1.31.0'
-
+# Use figaro to hide scret keys
 gem 'figaro', '1.1.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
